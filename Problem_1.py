@@ -1,3 +1,4 @@
+# url = https://projecteuler.net/problem=1
 v = []
 i = 1
 a = 0
